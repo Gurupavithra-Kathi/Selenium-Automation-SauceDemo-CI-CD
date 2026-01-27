@@ -1,0 +1,7 @@
+pagesPOM\CartPage.class
+Utils\CommonUtils.class
+Utils\ScreenshotsUtils.class
+pagesPOM\LoginPage.class
+pagesPOM\ProductsPage.class
+pagesPOM\FilterPage.class
+Utils\WaitUtils.class
